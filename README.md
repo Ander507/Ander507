@@ -23,26 +23,26 @@ I build web apps, desktop tools, and OS shells — from a fake desktop in the br
 
 <p align="center">
   <a href="https://github.com/Ander507/ZtionixOS">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ander507&repo=ZtionixOS&theme=tokyonight&hide_border=true" alt="ZtionixOS" />
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=Ander507&repo=ZtionixOS&theme=tokyonight&hide_border=true" alt="ZtionixOS" />
   </a>
   <a href="https://github.com/Ander507/PortSentinel">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ander507&repo=PortSentinel&theme=tokyonight&hide_border=true" alt="PortSentinel" />
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=Ander507&repo=PortSentinel&theme=tokyonight&hide_border=true" alt="PortSentinel" />
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/Ander507/AuraWatch">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ander507&repo=AuraWatch&theme=tokyonight&hide_border=true" alt="AuraWatch" />
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=Ander507&repo=AuraWatch&theme=tokyonight&hide_border=true" alt="AuraWatch" />
   </a>
   <a href="https://github.com/Ander507/OmniTab">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ander507&repo=OmniTab&theme=tokyonight&hide_border=true" alt="OmniTab" />
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=Ander507&repo=OmniTab&theme=tokyonight&hide_border=true" alt="OmniTab" />
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/Ander507/SnipClip">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ander507&repo=SnipClip&theme=tokyonight&hide_border=true" alt="SnipClip" />
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=Ander507&repo=SnipClip&theme=tokyonight&hide_border=true" alt="SnipClip" />
   </a>
   <a href="https://github.com/Ander507/ZyMetrixWeb">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ander507&repo=ZyMetrixWeb&theme=tokyonight&hide_border=true" alt="ZyMetrixWeb" />
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=Ander507&repo=ZyMetrixWeb&theme=tokyonight&hide_border=true" alt="ZyMetrixWeb" />
   </a>
 </p>
 
@@ -75,8 +75,8 @@ I build web apps, desktop tools, and OS shells — from a fake desktop in the br
 ### GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ander507&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Anders' GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ander507&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img src="https://github-readme-stats.shion.dev/api?username=Ander507&show_icons=true&theme=tokyonight&hide_border=true" alt="Anders' GitHub stats" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Ander507&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </p>
 
 <div align="center">
