@@ -41,8 +41,8 @@ I build web apps, desktop tools, and OS shells — from a fake desktop in the br
   <a href="https://github.com/Ander507/SnipClip">
     <img src="https://github-readme-stats.shion.dev/api/pin/?username=Ander507&repo=SnipClip&theme=tokyonight&hide_border=true" alt="SnipClip" />
   </a>
-  <a href="https://github.com/Ander507/ZyMetrixWeb">
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=Ander507&repo=ZyMetrixWeb&theme=tokyonight&hide_border=true" alt="ZyMetrixWeb" />
+  <a href="https://ander507.dev">
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=Ander507&repo=ander507-studio&theme=tokyonight&hide_border=true" alt="ander507.dev" />
   </a>
 </p>
 
@@ -53,7 +53,7 @@ I build web apps, desktop tools, and OS shells — from a fake desktop in the br
 | [AuraWatch](https://github.com/Ander507/AuraWatch) | Vibe finder for movies, TV, anime, songs, and games | [Demo](https://aura-watching.vercel.app/) |
 | [OmniTab](https://github.com/Ander507/OmniTab) | New tab with one bar for search, links, and Gemini | [Demo](https://omni-tab.vercel.app/) |
 | [SnipClip](https://github.com/Ander507/SnipClip) | Local clipboard vault and screenshot snipper | [Releases](https://github.com/Ander507/SnipClip/releases) |
-| [ZyMetrix](https://github.com/Ander507/ZyMetrixWeb) | Website security scanner — headers, TLS, secrets, cookies | [Demo](https://zymetrix.app) |
+| [ZyMetrix](https://zymetrix.app) | Website security scanner — headers, TLS, secrets, cookies | [Live](https://zymetrix.app) |
 
 ---
 
