@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:1E3A5F,100:F59E0B&height=200&section=header&text=Anders&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=Frontend%20%26%20Systems%20Developer&descAlignY=62&descSize=20&animation=fadeIn" alt="Anders" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:1E3A5F,100:3B82F6&height=120&section=header" alt="" />
 </div>
 
 # Hi, I'm Anders
@@ -8,7 +8,6 @@ I build web apps, desktop tools, and OS shells — from a fake desktop in the br
 
 - 🛠️ **Tech stack:** TypeScript, React / Next.js, SvelteKit, Rust, Go, C#
 - 🔭 **Current focus:** Web ecosystem projects, system utilities, and UI design
-- 🌐 **Portfolio:** [ander507.dev](https://ander507.dev) · [ander507.github.io](https://ander507.github.io)
 
 <p align="center">
   <a href="https://ander507.dev"><img src="https://img.shields.io/badge/Portfolio-ander507.dev-0B1220?style=for-the-badge" alt="Portfolio" /></a>
@@ -46,15 +45,6 @@ I build web apps, desktop tools, and OS shells — from a fake desktop in the br
   </a>
 </p>
 
-| Project | What it is | Live |
-|---|---|---|
-| [ZtionixOS](https://github.com/Ander507/ZtionixOS) | Browser desktop OS — windows, VFS, dock, and apps | [Demo](https://ztionix-os.vercel.app/) |
-| [PortSentinel](https://github.com/Ander507/PortSentinel) | Windows tray app that watches TCP ports against a baseline | [Releases](https://github.com/Ander507/PortSentinel/releases) |
-| [AuraWatch](https://github.com/Ander507/AuraWatch) | Vibe finder for movies, TV, anime, songs, and games | [Demo](https://aura-watching.vercel.app/) |
-| [OmniTab](https://github.com/Ander507/OmniTab) | New tab with one bar for search, links, and Gemini | [Demo](https://omni-tab.vercel.app/) |
-| [SnipClip](https://github.com/Ander507/SnipClip) | Local clipboard vault and screenshot snipper | [Releases](https://github.com/Ander507/SnipClip/releases) |
-| [ZyMetrix](https://zymetrix.app) | Website security scanner — headers, TLS, secrets, cookies | [Live](https://zymetrix.app) |
-
 ---
 
 ### Tech stack & tools
@@ -80,5 +70,5 @@ I build web apps, desktop tools, and OS shells — from a fake desktop in the br
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F59E0B,50:1E3A5F,100:0B1220&height=120&section=footer" alt="" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:1E3A5F,100:3B82F6&height=120&section=footer" alt="" />
 </div>
